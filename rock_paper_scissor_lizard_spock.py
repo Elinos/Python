@@ -14,7 +14,6 @@
 #module that we need to generate random computer number
 import random
 
-print "test"
 def number_to_name(number):
     """Function to convert number to the corresponding name"""
     if number == 0:
