@@ -12,6 +12,7 @@ time = 0.5
 c = 0.01
 a_vel = 0
 
+
 class ImageInfo:
     def __init__(self, center, size, radius = 0, lifespan = None, animated = False):
         self.center = center
